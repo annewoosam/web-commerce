@@ -1,0 +1,386 @@
+[
+	{
+		"product_id":1,
+		"product_description":"Checkers Portable Plastic Folding Magnetic Set",
+		"option":"small",
+		"product_url":"https://static.wixstatic.com/media/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.webp",
+		"price":20.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":4.59,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":2,
+		"product_description":"Checkers Portable Plastic Folding Magnetic Set",
+		"option":"large",
+		"product_url":"https://static.wixstatic.com/media/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.webp",
+		"price":38.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":4.59,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":3,
+		"product_description":"Magnetic Solid Wood Folding Chess Board Checkers & Chess",
+		"option":"29cm",
+		"product_url":"https://www.winningcheckers.com/product-page/magnetic-solid-wood-folding-chess-board-checkers-chess",
+		"price":34.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":5.58,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":4,
+		"product_description":"Magnetic Solid Wood Folding Chess Board Checkers & Chess",
+		"option":"34cm",
+		"product_url":"https://www.winningcheckers.com/product-page/magnetic-solid-wood-folding-chess-board-checkers-chess",
+		"price":34.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":5.58,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":5,
+		"product_description":"Magnetic Solid Wood Folding Chess Board Checkers & Chess",
+		"option":"39cm",
+		"product_url":"https://www.winningcheckers.com/product-page/magnetic-solid-wood-folding-chess-board-checkers-chess",
+		"price":58.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":5.58,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":6,
+		"product_description":"32Pcs Draughts/Checkers/Backgamon Chess Pieces",
+		"option":"single option",
+		"product_url":"https://www.winningcheckers.com/product-page/32pcs-draughts-checkers-backgammon-chess-pieces",
+		"price":4.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.03,
+		"updated_on":"2020-011-07"
+	},
+	{
+		"product_id":7,
+		"product_description":"Georgia Wood Training /Practice Checkers",
+		"option":"white",
+		"product_url":"https://www.winningcheckers.com/product-page/georgia-wood-training-practice-checkers",
+		"price":22.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":1.26,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":8,
+		"product_description":"Georgia Wood Training /Practice Checkers",
+		"option":"yellow",
+		"product_url":"https://www.winningcheckers.com/product-page/georgia-wood-training-practice-checkers",
+		"price":24.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":1.26,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":9,
+		"product_description":"Chess Checkers Folding Magnetic Wood Grain Board Chess Game Three Sizes",
+		"option":"M",
+		"product_url":"https://www.winningcheckers.com/product-page/chess-checkers-folding-magnetic-wood-grain-board-chess-game-three-sizes",
+		"price":38.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":19.00,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":10,
+		"product_description":"Chess Checkers Folding Magnetic Wood Grain Board Chess Game Three Sizes",
+		"option":"L",
+		"product_url":"https://www.winningcheckers.com/product-page/chess-checkers-folding-magnetic-wood-grain-board-chess-game-three-sizes",
+		"price":42.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":19.00,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":11,
+		"product_description":"Chess Checkers Folding Magnetic Wood Grain Board Chess Game Three Sizes",
+		"option":"XL",
+		"product_url":"https://www.winningcheckers.com/product-page/chess-checkers-folding-magnetic-wood-grain-board-chess-game-three-sizes",
+		"price":52.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":19.00,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":12,
+		"product_description":"30pcs Wooden Draughts Backgammon Chess Pieces",
+		"option":"s",
+		"product_url":"https://www.winningcheckers.com/product-page/30pcs-wooden-draughts-checkers-backgammon-chess-pieces",
+		"price":6.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":3.00,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":13,
+		"product_description":"30pcs Wooden Draughts Backgammon Chess Pieces",
+		"option":"l",
+		"product_url":"https://www.winningcheckers.com/product-page/30pcs-wooden-draughts-checkers-backgammon-chess-pieces",
+		"price":6.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":3.00,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":14,
+		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
+		"option":"29cm",
+		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
+		"price":16.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":1.12,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":15,
+		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
+		"option":"34cm",
+		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
+		"price_min":26.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":1.12,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":16,
+		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
+		"option":"39cm",
+		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
+		"price_min":46.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":1.12,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":17,
+		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
+		"option":"44cm",
+		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
+		"price_min":58.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":1.12,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":18,
+		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
+		"option":"24cm",
+		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
+		"price_min":72.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":19,
+		"product_description":"Chess Backgammon Checkers Set Foldabale Board Game 3-in-1",
+		"option":"24cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.webp",
+		"price":24.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":10.96,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":20,
+		"product_description":"Chess Backgammon Checkers Set Foldabale Board Game 3-in-1",
+		"option":"29cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.webp",
+		"price":32.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":10.96,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":21,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Spain, 24cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":20.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":22,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Spain, 29cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":22.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":23,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Spain, 34cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":24.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":24,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Spain, 39cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":28.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":25,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Spain, 44cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":34.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":26,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Russia, 24cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":18.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":27,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Russia, 29cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":22.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":28,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Russia, 34cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":26.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":29,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Russia, 39cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":30.00,
+		"added_on":"2020-11-02",
+		"number_sold":0.48,
+		"margin":0,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":30,
+		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
+		"option":"Russia, 44cm",
+		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
+		"price":38.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":0.48,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":31,
+		"product_description":"Chess Wooden Check Board Solid Wood Pieces Folding Chess Board",
+		"option":"M",
+		"product_url":"https://www.winningcheckers.com/product-page/chess-wooden-wooden-checker-board-solid-wood-pieces-folding-chess-board",
+		"price":54.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":27.00,
+		"updated_on":"2020-11-07"
+	},
+		{
+		"product_id":32,
+		"product_description":"Chess Wooden Check Board Solid Wood Pieces Folding Chess Board",
+		"option":"big",
+		"product_url":"https://www.winningcheckers.com/product-page/chess-wooden-wooden-checker-board-solid-wood-pieces-folding-chess-board",
+		"price":76.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":27.00,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":33,
+		"product_description":"The Lion Head Checker Flannel Shirt",
+		"option":"same price for s-2xl, red/black or white/black",
+		"product_url":"https://www.winningcheckers.com/product-page/the-lion-head-checked-flannel-shirt",
+		"price":42.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":13.01,
+		"updated_on":"2020-11-07"
+	},
+	{
+		"product_id":34,
+		"product_description":"Cher Checkered Sunglasses",
+		"option":"blue/black in stock; also red/black and white/black same price",
+		"product_url":"https://www.winningcheckers.com/product-page/cher-checkered-sunglasses",
+		"price":24.00,
+		"added_on":"2020-11-02",
+		"number_sold":0,
+		"margin":9.01,
+		"updated_on":"2020-11-07"
+	}
+]
+
+
+
+
+
+
+
+
+
+
