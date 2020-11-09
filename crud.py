@@ -1,27 +1,33 @@
 """CRUD operations."""
 
-from model import db, YourClassNameHereInTitleCaseSingular, connect_to_db
+from model import db, Product, connect_to_db
 
 import datetime
 
 
-def create_YourClassNameHereInLowerCaseSingular(YourColumnNamesHereSeparatedByCommasExcludingPrimaryKeyColumn):
+def create_product(channel_name,product_description, option, product_url, price, added_on, number_sold, margin, updated_on):
    
 
-    YourClassNameHereInLowerCaseSingular = YourClassNameHereInTitleCaseSingular(YourColumnName=YourColumnName,
-                  YourNextColumnNameUntilLast=YourNextColumnNameUntilLast,
-                  YourLastColumnName=YourLastColumnName)
+    product = Product(channel_name=channel_name,
+                  product_description=product_description,
+                  option=option,
+                  product_url=product_url,
+                  price=price,
+                  added_on=added_on,
+                  number_sold=number_sold,
+                  margin=margin,
+                  updated_on=updated_on)
 
-    db.session.add(YourClassNameHereInLowerCaseSingular)
+    db.session.add(product)
 
     db.session.commit()
 
-    return YourClassNameHereInLowerCaseSingular
+    return product
 
-def get_YourClassNameHereInLowerCasePlural():
-    """Return all rows of YourClassNameHereInLowerCaseSingular monthly data."""
+def get_products():
+    """Return all rows of product data."""
 
-    return YourClassNameHereInTitleCaseSingular.query.all()
+    return Product.query.all()
  
 if __name__ == '__main__':
     from server import app

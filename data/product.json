@@ -1,6 +1,7 @@
 [
 	{
 		"product_id":1,
+		"channel_name":"WinningCheckers",
 		"product_description":"Checkers Portable Plastic Folding Magnetic Set",
 		"option":"small",
 		"product_url":"https://static.wixstatic.com/media/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.webp",
@@ -12,6 +13,7 @@
 	},
 	{
 		"product_id":2,
+		"channel_name":"WinningCheckers",
 		"product_description":"Checkers Portable Plastic Folding Magnetic Set",
 		"option":"large",
 		"product_url":"https://static.wixstatic.com/media/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_52271949221a488d8a19a35ba2ce9753~mv2.webp",
@@ -23,6 +25,7 @@
 	},
 	{
 		"product_id":3,
+		"channel_name":"WinningCheckers",
 		"product_description":"Magnetic Solid Wood Folding Chess Board Checkers & Chess",
 		"option":"29cm",
 		"product_url":"https://www.winningcheckers.com/product-page/magnetic-solid-wood-folding-chess-board-checkers-chess",
@@ -34,6 +37,7 @@
 	},
 	{
 		"product_id":4,
+		"channel_name":"WinningCheckers",
 		"product_description":"Magnetic Solid Wood Folding Chess Board Checkers & Chess",
 		"option":"34cm",
 		"product_url":"https://www.winningcheckers.com/product-page/magnetic-solid-wood-folding-chess-board-checkers-chess",
@@ -45,6 +49,7 @@
 	},
 	{
 		"product_id":5,
+		"channel_name":"WinningCheckers",
 		"product_description":"Magnetic Solid Wood Folding Chess Board Checkers & Chess",
 		"option":"39cm",
 		"product_url":"https://www.winningcheckers.com/product-page/magnetic-solid-wood-folding-chess-board-checkers-chess",
@@ -56,6 +61,7 @@
 	},
 	{
 		"product_id":6,
+		"channel_name":"WinningCheckers",
 		"product_description":"32Pcs Draughts/Checkers/Backgamon Chess Pieces",
 		"option":"single option",
 		"product_url":"https://www.winningcheckers.com/product-page/32pcs-draughts-checkers-backgammon-chess-pieces",
@@ -63,10 +69,11 @@
 		"added_on":"2020-11-02",
 		"number_sold":0,
 		"margin":0.03,
-		"updated_on":"2020-011-07"
+		"updated_on":"2020-11-07"
 	},
 	{
 		"product_id":7,
+		"channel_name":"WinningCheckers",
 		"product_description":"Georgia Wood Training /Practice Checkers",
 		"option":"white",
 		"product_url":"https://www.winningcheckers.com/product-page/georgia-wood-training-practice-checkers",
@@ -78,6 +85,7 @@
 	},
 	{
 		"product_id":8,
+		"channel_name":"WinningCheckers",
 		"product_description":"Georgia Wood Training /Practice Checkers",
 		"option":"yellow",
 		"product_url":"https://www.winningcheckers.com/product-page/georgia-wood-training-practice-checkers",
@@ -89,6 +97,7 @@
 	},
 	{
 		"product_id":9,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Checkers Folding Magnetic Wood Grain Board Chess Game Three Sizes",
 		"option":"M",
 		"product_url":"https://www.winningcheckers.com/product-page/chess-checkers-folding-magnetic-wood-grain-board-chess-game-three-sizes",
@@ -100,6 +109,7 @@
 	},
 	{
 		"product_id":10,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Checkers Folding Magnetic Wood Grain Board Chess Game Three Sizes",
 		"option":"L",
 		"product_url":"https://www.winningcheckers.com/product-page/chess-checkers-folding-magnetic-wood-grain-board-chess-game-three-sizes",
@@ -111,6 +121,7 @@
 	},
 	{
 		"product_id":11,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Checkers Folding Magnetic Wood Grain Board Chess Game Three Sizes",
 		"option":"XL",
 		"product_url":"https://www.winningcheckers.com/product-page/chess-checkers-folding-magnetic-wood-grain-board-chess-game-three-sizes",
@@ -122,6 +133,7 @@
 	},
 	{
 		"product_id":12,
+		"channel_name":"WinningCheckers",
 		"product_description":"30pcs Wooden Draughts Backgammon Chess Pieces",
 		"option":"s",
 		"product_url":"https://www.winningcheckers.com/product-page/30pcs-wooden-draughts-checkers-backgammon-chess-pieces",
@@ -133,6 +145,7 @@
 	},
 		{
 		"product_id":13,
+		"channel_name":"WinningCheckers",
 		"product_description":"30pcs Wooden Draughts Backgammon Chess Pieces",
 		"option":"l",
 		"product_url":"https://www.winningcheckers.com/product-page/30pcs-wooden-draughts-checkers-backgammon-chess-pieces",
@@ -144,6 +157,7 @@
 	},
 	{
 		"product_id":14,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
 		"option":"29cm",
 		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
@@ -155,10 +169,11 @@
 	},
 		{
 		"product_id":15,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
 		"option":"34cm",
 		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
-		"price_min":26.00,
+		"price":26.00,
 		"added_on":"2020-11-02",
 		"number_sold":0,
 		"margin":1.12,
@@ -166,10 +181,11 @@
 	},
 		{
 		"product_id":16,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
 		"option":"39cm",
 		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
-		"price_min":46.00,
+		"price":46.00,
 		"added_on":"2020-11-02",
 		"number_sold":0,
 		"margin":1.12,
@@ -177,10 +193,11 @@
 	},
 		{
 		"product_id":17,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
 		"option":"44cm",
 		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
-		"price_min":58.00,
+		"price":58.00,
 		"added_on":"2020-11-02",
 		"number_sold":0,
 		"margin":1.12,
@@ -188,10 +205,11 @@
 	},
 		{
 		"product_id":18,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Chess Set Wooden Chess Game Backgammon Checkers Chess Wooden Folding",
 		"option":"24cm",
 		"product_url":"https://www.winningcheckers.com/product-page/3-in-1-chess-set-wooden-chess-game-backgammon-checkers-chess-wooden-folding",
-		"price_min":72.00,
+		"price":72.00,
 		"added_on":"2020-11-02",
 		"number_sold":0,
 		"margin":0.48,
@@ -199,6 +217,7 @@
 	},
 	{
 		"product_id":19,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Backgammon Checkers Set Foldabale Board Game 3-in-1",
 		"option":"24cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.webp",
@@ -210,6 +229,7 @@
 	},
 		{
 		"product_id":20,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Backgammon Checkers Set Foldabale Board Game 3-in-1",
 		"option":"29cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.jpg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_102aac28de464f81b87bf83b68bfa3a0~mv2.webp",
@@ -221,6 +241,7 @@
 	},
 	{
 		"product_id":21,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Spain, 24cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -232,6 +253,7 @@
 	},
 	{
 		"product_id":22,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Spain, 29cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -243,6 +265,7 @@
 	},
 	{
 		"product_id":23,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Spain, 34cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -254,6 +277,7 @@
 	},
 	{
 		"product_id":24,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Spain, 39cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -265,6 +289,7 @@
 	},
 	{
 		"product_id":25,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Spain, 44cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -276,6 +301,7 @@
 	},
 	{
 		"product_id":26,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Russia, 24cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -287,6 +313,7 @@
 	},
 		{
 		"product_id":27,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Russia, 29cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -298,6 +325,7 @@
 	},
 		{
 		"product_id":28,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Russia, 34cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -309,6 +337,7 @@
 	},
 		{
 		"product_id":29,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Russia, 39cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -320,6 +349,7 @@
 	},
 		{
 		"product_id":30,
+		"channel_name":"WinningCheckers",
 		"product_description":"3 in 1 Foldable Wooden Chess Chess Backgammon Checkers Board",
 		"option":"Russia, 44cm",
 		"product_url":"https://static.wixstatic.com/media/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.jpeg/v1/fill/w_265,h_265,al_c,q_80,usm_0.66_1.00_0.01/39d09b_f32f39b68622416d8057c13a0dbc46c8~mv2.webp",
@@ -331,6 +361,7 @@
 	},
 	{
 		"product_id":31,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Wooden Check Board Solid Wood Pieces Folding Chess Board",
 		"option":"M",
 		"product_url":"https://www.winningcheckers.com/product-page/chess-wooden-wooden-checker-board-solid-wood-pieces-folding-chess-board",
@@ -342,6 +373,7 @@
 	},
 		{
 		"product_id":32,
+		"channel_name":"WinningCheckers",
 		"product_description":"Chess Wooden Check Board Solid Wood Pieces Folding Chess Board",
 		"option":"big",
 		"product_url":"https://www.winningcheckers.com/product-page/chess-wooden-wooden-checker-board-solid-wood-pieces-folding-chess-board",
@@ -353,6 +385,7 @@
 	},
 	{
 		"product_id":33,
+		"channel_name":"WinningCheckers",
 		"product_description":"The Lion Head Checker Flannel Shirt",
 		"option":"same price for s-2xl, red/black or white/black",
 		"product_url":"https://www.winningcheckers.com/product-page/the-lion-head-checked-flannel-shirt",
@@ -364,6 +397,7 @@
 	},
 	{
 		"product_id":34,
+		"channel_name":"WinningCheckers",
 		"product_description":"Cher Checkered Sunglasses",
 		"option":"blue/black in stock; also red/black and white/black same price",
 		"product_url":"https://www.winningcheckers.com/product-page/cher-checkered-sunglasses",

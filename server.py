@@ -10,7 +10,7 @@ db = SQLAlchemy()
 
 # created import allowing connection to database
 
-from model import connect_to_db, YourModelNameTitleCaseSingularStats, db
+from model import connect_to_db, Product, db
 
 app = Flask(__name__)
 
@@ -25,21 +25,33 @@ import crud
 
 @app.route('/')
 
-def all_YourModelNameLowerCasePluralStats():
+def all_products():
 
-    stats=crud.get_YourModelNameLowerCasePlural()
+    stats=crud.get_products()
     
-    YourVariableName=[q[0] for q in db.session.query(YourModelNameInTitleCaseHere.YourVariableName).all()]
+    product_id=[q[0] for q in db.session.query(Product.product_id).all()]
 
-    YourNextVariableName=[q[0] for q in db.session.query(YourModelNameInTitleCaseHere.YourNextVariableName).all()]
+    channel_name=[q[0] for q in db.session.query(Product.channel_name).all()]
      
-    #repeat till next to last variable accounted for
+    product_description=[q[0] for q in db.session.query(Product.product_description).all()]
       
-    YourLastVariableName=[q[0] for q in db.session.query(YourModelNameInTitleCaseHere.YourLastVariableName).all()]
+    option=[q[0] for q in db.session.query(Product.option).all()]
+
+    product_url=[q[0] for q in db.session.query(Product.product_url).all()]
+
+    price=[q[0] for q in db.session.query(Product.price).all()]
+
+    added_on=[q[0] for q in db.session.query(Product.added_on).all()]
+
+    number_sold=[q[0] for q in db.session.query(Product.number_sold).all()]
+
+    margin=[q[0] for q in db.session.query(Product.margin).all()]
+
+    updated_on=[q[0] for q in db.session.query(Product.updated_on).all()]
     
     # repeat through all columns needed
 
-    return render_template('YourModelNameLowerCasePlural.html', YourVariable_Name=YourVariable_Name, YourNextVariableName=YourNextVariableName, YourLastVariableName=YourLastVariableName)
+    return render_template('products.html', product_id=product_id, channel_name=channel_name, product_description=product_description, option=option, product_url=product_url, price=price, added_on=added_on, number_sold=number_sold, margin=margin, updated_on=updated_on)
 
 if __name__ == '__main__':
 

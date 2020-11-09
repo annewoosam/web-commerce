@@ -13,32 +13,44 @@ import model
 import server
 
 
-os.system('dropdb YourFolderUnderscoredAsDatabaseNameHere')
+os.system('dropdb web_commerce')
 
-os.system('createdb YourFolderUnderscoredAsDatabaseNameHere')
+os.system('createdb web_commerce')
 
 model.connect_to_db(server.app)
 
 model.db.create_all()
 
 
-# Create YourModelNameLowerCasedHere table's initial data.
+# Create product table's initial data.
 
-with open('data/YourModelNameLowerCasedSingularHere.json') as f:
+with open('data/product.json') as f:
 
-    YourModelNameLowerCasedSingularHere_data = json.loads(f.read())
+    product_data = json.loads(f.read())
 
-YourModelNameLowerCasedSingularHere_in_db = []
+product_in_db = []
 
-for YourModelNameLowerCasedSingularHere in YourModelNameLowerCasedSingularHere_data:
-    columnNamesSeparatedbyCommasUntilLastOne= (
-                                   YourModelNameLowerCasedSingularHere['YourFirstColumnNameHere'],
-                                   YourModelNameLowerCasedSingularHere['YourNextColumnNameHereTillLast'],
-                                   YourModelNameLowerCasedSingularHere['YourLastColumnNameHere'])
+for product in product_data:
+    channel_name, product_description, option, product_url, price, added_on, number_sold, margin, updated_on= (
+                                   product['channel_name'],
+                                   product['product_description'],
+                                   product['option'],
+                                   product['product_url'],
+                                   product['price'],
+                                   product['added_on'],
+                                   product['number_sold'],
+                                   product['margin'],
+                                   product['updated_on'])
 
-    db_YourModelNameLowerCasedSingularHere = crud.create_YourModelNameLowerCasedSingularHere(
-                                 YourFirstColumnNameHere,
-                                 YourNextColumnNameHereTillLast,
-                                 YourLastColumnNameHere)
+    db_product = crud.create_product(
+                                 channel_name,
+                                 product_description,
+                                 option,
+                                 product_url,
+                                 price,
+                                 added_on,
+                                 number_sold,
+                                 margin,
+                                 updated_on)
 
-    YourModelNameLowerCasedSingularHere_in_db.append(db_YourModelNameLowerCasedSingularHere)
+    product_in_db.append(db_product)
